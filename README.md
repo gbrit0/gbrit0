@@ -1,7 +1,7 @@
 ## Oi, eu sou o Gabriel Ribeiro
-- 👀 I’m interested in front end development and data science;
-- 🌱 I’m currently learning Java Script Algorithms and Data Structure;
-- 💞️ I’m looking to collaborate on CSS and HTML projects to improve my current skills;
+- 👀 I’m interested in data science;
+- 🌱 I’m currently learning Python Algorithms and Data Structure;
+- 💞️ I’m looking to collaborate on Data Science projects to improve my current skills;
 - 📫 How to reach me: gbrito341@gmail.com
 
 <!---
